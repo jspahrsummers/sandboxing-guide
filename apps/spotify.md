@@ -1,12 +1,12 @@
 # [Spotify](https://www.spotify.com/)
 
-# Windows
+## Windows
 
 _Recommendation:_ [**install from app store**](/solutions/install-from-app-store.md)
 
 ![security: medium](https://img.shields.io/badge/security-medium-yellow) ![usability: high](https://img.shields.io/badge/usability-high-blue)
 
-# macOS
+## macOS
 
 _Recommendation:_ [**use in browser**](/solutions/browser.md)
 
